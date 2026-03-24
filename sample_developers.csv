@@ -1,0 +1,21 @@
+_id,name,commits,loc,bug_fixes,review_time,refactor_count
+dev_1,John (Rapid Coder),65,1500,4,2,3
+dev_2,Sarah (Debug Specialist),18,350,22,6,4
+dev_3,Mike (Deep Worker),10,4500,2,10,8
+dev_4,Emma (Refactor Specialist),25,800,3,5,18
+dev_5,Alex (Rapid Coder),50,1100,6,3,2
+dev_6,Nina (Debug Specialist),22,450,18,7,5
+dev_7,David (Deep Worker),12,3800,3,9,12
+dev_8,Lisa (Refactor Specialist),30,950,4,6,20
+dev_9,Tom (Rapid Coder),75,1800,8,4,4
+dev_10,Anna (Debug Specialist),15,250,25,8,3
+dev_11,Chris (Deep Worker),8,5200,1,12,15
+dev_12,Sophia (Refactor Specialist),35,1100,5,7,22
+dev_13,Bob (Anomaly - Lazy),2,25,0,0,0
+dev_14,Eve (Anomaly - Overworker),180,12000,15,25,10
+dev_15,Frank (Rapid Coder),60,1350,5,2,3
+dev_16,Grace (Debug Specialist),20,400,20,5,4
+dev_17,Henry (Deep Worker),11,4100,2,11,10
+dev_18,Ivy (Refactor Specialist),28,850,3,6,19
+dev_19,Jack (Rapid Coder),70,1650,7,3,2
+dev_20,Karen (Anomaly - Lazy),3,40,1,1,1
